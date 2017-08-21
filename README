@@ -1,0 +1,9 @@
+Note: This project was done on Codepen and had several plug-ins, such as JQuery and Bootstrap added. For this reason, I did not add the <link> tag to the head tag as it wasn't necessary.
+
+Wiki-Viewers purpose is to allow users to search through the wide array of information that has been filtered out based on the terms written in the search bar. Once the user has written a term, JQuery will automatically trigger an enter event and will immediately display a list of related information for the user to study.
+
+Here's a link to my project on codepen: https://codepen.io/baquino1994/full/wqjwPO/
+
+
+
+
